@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/JoseLuisMonroy/PracticaJS_xlsx/issues"
   },
-  "homepage": "https://github.com/JoseLuisMonroy/PracticaJS_xlsx#readme"
+  "homepage": "https://github.com/JoseLuisMonroy/PracticaJS_xlsx#readme",
+  "dependencies": {
+    "jest": "^29.0.3",
+    "xlsx": "^0.18.5"
+  }
 }
