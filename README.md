@@ -4,7 +4,10 @@ En este repositorio se mostrarán codigos básicos para la lectura y la escritur
 
 ## Archivos xlsx
 
-Importante: Para una lectura correcta revisar que las tablas tengan encabezados y que se encuentren en la primera fila
+Importante: Para una lectura correcta revisar que las tablas tengan encabezados y que se encuentren en la primera fila con el siguiente formato
+|Nombre|Numero |...|
+|------|-------|---|
+|Jose Monroy|0012345678|...|
 
 
 ## Dependencias
