@@ -2,5 +2,5 @@ const fileController = require('./lib/controller/fileController');
 
 
 fileController.createFile();
-fileController.addInfo();
+fileController.addInfo('./public/file.xlsx');
 fileController.moveFile();
