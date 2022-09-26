@@ -55,6 +55,7 @@ npm test --all
 ```
 
 ## Ejecución del proyecto
+Antes de ejecutar el codigo, asegurate de haber colocado el archivo xlsx en la carpeta public y poner su nombre en el archivo index.js en la variable file.
 Para ejecutar el proyecto se debe ejecutar el siguiente comando
 
 ```
