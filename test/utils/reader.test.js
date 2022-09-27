@@ -1,7 +1,9 @@
+const reader = require('./../../lib/utils/reader');
+
 describe("Reader test suite", () => {
     test("Case 1. Get information from Excel file", () => {
-        const rawData = 2 + 1;
+        const rawData = reader.readXlsx('./public/file.xlsx');
 
-        expect(rawData).toBe(2);
+        expect(rawData).not.toBeUndefined();
     });
 });
