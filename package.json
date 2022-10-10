@@ -1,28 +1,28 @@
 {
-  "name": "practicajs_xlsx",
-  "version": "1.0.0",
-  "description": "Codigo para la obtención de datos de excel",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JoseLuisMonroy/PracticaJS_xlsx.git"
-  },
-  "keywords": [
-    "Excel",
-    "Js"
-  ],
-  "author": "Jose Monroy",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JoseLuisMonroy/PracticaJS_xlsx/issues"
-  },
-  "homepage": "https://github.com/JoseLuisMonroy/PracticaJS_xlsx#readme",
-  "dependencies": {
-    "fs-extra": "^10.1.0",
-    "jest": "^29.0.3",
-    "xlsx": "^0.18.5"
-  }
+    "name": "practicajs_xlsx",
+    "version": "1.0.0",
+    "description": "Codigo para la obtención de datos de excel",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JoseLuisMonroy/PracticaJS_xlsx.git"
+    },
+    "keywords": [
+        "Excel",
+        "Js"
+    ],
+    "author": "Jose Monroy",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JoseLuisMonroy/PracticaJS_xlsx/issues"
+    },
+    "homepage": "https://github.com/JoseLuisMonroy/PracticaJS_xlsx#readme",
+    "dependencies": {
+        "fs-extra": "^10.1.0",
+        "jest": "^29.0.3",
+        "xlsx": "^0.18.5"
+    }
 }
