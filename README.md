@@ -29,7 +29,7 @@ Para tener el proyecto en tu ordenador realiza los siguientes pasos:
 Realiza un fork de este rpositorio
 En la terminal ejecuta el siguiente comando (sustituyendo username por tu usuario en gitHub)<br>
 ```
-git clone https://github.com/[Username]/PracticaJS_xlsx
+git clone https://github.com/[Username]/ExcelFile_to_VCF
 ```
 En la terminal ejecuta el siguiente comando<br>
 ```
