@@ -35,8 +35,11 @@ En la terminal ejecuta el siguiente comando<br>
 ```
 cd PracticaJS_xlsx
 ```
-Instala las dependencias con los siguientes comandos<br>
-
+Instala las dependencias con el siguiente comando<br>
+```
+npm install -i
+```
+O bien, instalando una a una las dependencias<br>
 ```
 npm install jest --save
 ```
